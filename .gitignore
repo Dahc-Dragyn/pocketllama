@@ -1,0 +1,21 @@
+# Rust build artifacts
+/target/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Environment and databases
+.env
+.env*.local
+*.db
+pocketllama.db
+
+# Large model files
+*.gguf
+*.bin

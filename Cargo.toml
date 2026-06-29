@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "pocket-core",
+    "pocket-cli",
+    "pocket-engine",
+    "pocket-server",
+    "pocket-ui",
+]
